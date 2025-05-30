@@ -1,6 +1,6 @@
 # 🤖 StockSensei: Your Agentic AI for Financial Intelligence
 
-**FinGenie** is an Agentic AI system that combines real-time financial data analysis with web search capabilities to provide deep insights on stocks, market trends, and financial news. Built using [phidata](https://docs.phidata.io/), LLMs from Groq, and tools like YFinance and DuckDuckGo.
+**StockSensei** is an Agentic AI system that combines real-time financial data analysis with web search capabilities to provide deep insights on stocks, market trends, and financial news. Built using [phidata](https://docs.phidata.io/), LLMs from Groq, and tools like YFinance and DuckDuckGo.
 
 ---
 
